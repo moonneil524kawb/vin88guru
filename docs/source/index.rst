@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Vin88 – Cổng Game Đẳng Cấp Và Cơ Hội Giải Trí Hàng Đầu Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Vin88 <https://vin88.guru/>`_ là cổng game trực tuyến uy tín, mang đến hệ sinh thái game đa dạng như game bài đổi thưởng, bắn cá, nổ hũ, thể thao và xổ số. Được chứng nhận bởi PAGCOR và iTech Labs, Vin88 đảm bảo tính minh bạch, an toàn và công bằng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện thân thiện, bảo mật cao, và nhiều chương trình khuyến mãi hấp dẫn, Vin88 thu hút hơn 500.000 lượt truy cập mỗi ngày. Đặc biệt, Vin88 mang đến nhiều ưu đãi giá trị, bao gồm thưởng 100% cho lần nạp đầu tiên. Vin88 là lựa chọn hoàn hảo cho những ai yêu thích giải trí trực tuyến và tìm kiếm cơ hội kiếm tiền an toàn, uy tín.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 133d Hòa Bình, Tân Thới Hoà, Tân Phú, Hồ Chí Minh 70000, Việt Nam. 
 
-Contents
---------
+Phone: 0701636361. 
 
-.. toctree::
+Email: info@vin88.guru. 
 
-   usage
-   api
+Website: https://vin88.guru/
+
+#vin88 #trangchuvin88 #dangkyvin88 #dangnhapvin88 #linkvin88
